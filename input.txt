@@ -1,0 +1,13 @@
+#The women preferred by men in order of most to least
+men_preference_list = {
+    'Abel': ['Selena', 'Hailey', 'Kendall'],
+    'Josh': ['Hailey', 'Selena', 'Kendall'],
+    'Ryan': ['Selena', 'Hailey', 'Kendall']
+}
+
+#The men preferred by women in order of most to least
+women_preference_list = {
+    'Selena': ['Abel', 'Josh', 'Ryan'],
+    'Hailey': ['Abel', 'Josh', 'Ryan'],
+    'Kendall': ['Abel', 'Josh', 'Ryan']
+} 
