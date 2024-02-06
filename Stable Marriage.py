@@ -55,11 +55,6 @@
 import os
 
 
-# specifies the file path for test files
-# file_path = "C:/Users/arsha/OneDrive/Desktop/assignment1/Tests/Input3.txt"
-# directory_path = "C:/Users/arsha/OneDrive/Desktop/assignment1/Tests"
-# os.chdir(directory_path)
-
 # keeps record of possible engagements
 possible_engagements = []
 
