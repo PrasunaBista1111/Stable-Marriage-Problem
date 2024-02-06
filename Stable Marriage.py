@@ -117,6 +117,4 @@ if __name__ == "__main__":
 
     main()
 
-# changes the working directory to its original location if needed
-# original_directory = "C:/Users/arsha/OneDrive/Desktop/assignment1"
-# os.chdir(original_directory)
+
